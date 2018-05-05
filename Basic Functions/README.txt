@@ -1,1 +1,1 @@
-This Folder contains functions built from scratch
+This Folder contains functions were built from scratch
